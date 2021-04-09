@@ -6,11 +6,11 @@ Project built using Truffle and solidity.
 
 | Library       | Version       |
 | ------------- | ------------- |
- | "@openzeppelin/contracts" | "^2.5.1" |
-  |  "@truffle/hdwallet-provider" | "^1.2.6" | 
-   | "bignumber.js" | "^9.0.1" |
-     | "truffle-assertions" | "^0.9.2" | 
-    | "truffle-hdwallet-provider" | "^1.0.17" |
+| "@openzeppelin/contracts" | "2.5.1" |
+|  "@truffle/hdwallet-provider" | "1.2.6" | 
+| "bignumber.js" | "9.0.1" |
+| "truffle-assertions" | "0.9.2" | 
+| "truffle-hdwallet-provider" | "1.0.17" |
 
 ## Install
 
