@@ -1,5 +1,5 @@
 # About : 
-An Ethereum Dapp that support transferring of ownership, product auditing, and supply chain management.\
+An Ethereum Dapp with multiple smart contracts which are autonomously triggered by external sources, and which handle payments based on flight delay scenarios.\
 Project built using Truffle and solidity. 
 
 # Used Libraries
@@ -11,6 +11,8 @@ Project built using Truffle and solidity.
 | "bignumber.js" | "9.0.1" |
 | "truffle-assertions" | "0.9.2" | 
 | "truffle-hdwallet-provider" | "1.0.17" |
+
+Solidity version : 0.5.16
 
 ## Install
 
@@ -50,15 +52,3 @@ To build dapp for prod:
 Deploy the contents of the ./dapp folder
 
 
-## Resources
-
-* [How does Ethereum work anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
-* [BIP39 Mnemonic Generator](https://iancoleman.io/bip39/)
-* [Truffle Framework](http://truffleframework.com/)
-* [Ganache Local Blockchain](http://truffleframework.com/ganache/)
-* [Remix Solidity IDE](https://remix.ethereum.org/)
-* [Solidity Language Reference](http://solidity.readthedocs.io/en/v0.4.24/)
-* [Ethereum Blockchain Explorer](https://etherscan.io/)
-* [Web3Js Reference](https://github.com/ethereum/wiki/wiki/JavaScript-API)
->>>>>>> 4b5d810... init
-# flightsurety_dapp
