@@ -1,10 +1,13 @@
-<<<<<<< HEAD
-# flightsurety_dapp
-||||||| (empty tree)
-=======
-# FlightSurety
+# About : 
+An Ethereum Dapp that support transferring of ownership, product auditing, and supply chain management.\
+Project built using Truffle and solidity. 
 
-FlightSurety is a sample application project for Udacity's Blockchain course.
+# Used Libraries
+
+| Library       | Version       |
+| ------------- | ------------- |
+| truffle-assertions  | 0.9.2 |
+| truffle-hdwallet-provider | 1.0.17 |
 
 ## Install
 
